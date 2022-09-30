@@ -82,3 +82,13 @@ Back End: Dart Shelf
 - CI/CD
 - Documentação
   - shelf-swagger-ui
+
+Front End: Flutter
+
+- State
+- Widget types
+- Flutter Three
+- Design Pattern
+- Gerenciamento de estado
+- Testes unitários
+- Play Store e App Center
