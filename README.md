@@ -1,1 +1,1 @@
-# fullstack_studies
+# Path to become a FullStack Dev
