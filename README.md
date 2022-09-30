@@ -65,3 +65,20 @@ Dart
   - Extensões
 - Map/Reduce
 - Keywords específicas
+
+Back End: Dart Shelf
+
+- Rotas
+  - shelf_modular
+  - shelf_router
+- Injeção de dependência
+  - shelf-modular
+  - get_it
+- JWT
+  - jose
+  - dart_jsonwebtoken
+- WebSocket (real time)
+  - shelf-web-socket
+- CI/CD
+- Documentação
+  - shelf-swagger-ui
