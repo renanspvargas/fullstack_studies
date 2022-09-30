@@ -1,6 +1,6 @@
 # Path to become a FullStack Dev
 
-Conceitos base
+## Conceitos base
 
 - Clean Architecture e Clean Code
 - DRY
@@ -27,7 +27,7 @@ Conceitos base
   - Rest
   - Restfull
 
-Dart
+## Dart
 
 - Tipos de dados primitivos
   - Int, Float, Num
@@ -66,7 +66,7 @@ Dart
 - Map/Reduce
 - Keywords específicas
 
-Back End: Dart Shelf
+## Back End: Dart Shelf
 
 - Rotas
   - shelf_modular
@@ -83,7 +83,7 @@ Back End: Dart Shelf
 - Documentação
   - shelf-swagger-ui
 
-Front End: Flutter
+## Front End: Flutter
 
 - State
 - Widget types
