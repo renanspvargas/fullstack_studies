@@ -55,14 +55,31 @@
   - Nomeada
   - Tipos de retorno
 - Classes
+
+  ```dart
+  Class NomeClasse {
+      var propriedade = 'Valor'
+  }
+  ```
+
   - Características:
+
     - Variáveis sao chamadas de propriedades
+    - Você pode acessar as propriedades a partir do momento que atribui a instancia da classe a uma variavel. Também é possível modificar os valores das propriedades da classe.
+
+    ```dart
+    NomeClasse instanciaClasse = NomeClasse();
+    print(instanciaClasse.propriedade)
+    instancia.propriedade = 'Novo valor'
+    ```
+
   - Heranca
     - Keyword: Extends
   - Implementação (interface/protocolo)
     - Keyword: Implements
   - Injeção de dependencia
   - Extensões
+
 - Map/Reduce
 - Keywords específicas
 
